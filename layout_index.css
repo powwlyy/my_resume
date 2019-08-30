@@ -1,0 +1,75 @@
+*{
+    font-family: Calibri ;
+
+}
+
+header{
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    background-color:  #00c8c8 ;
+    color: white;
+}
+
+main{
+    margin: 50px 0px;
+}
+.about {
+    font-size: x-large;
+    font-weight: 500;
+    text-align: center;
+    margin: 10px;
+    line-height: 30px;
+    color: #00c8c8;
+}
+
+.about > a{
+    text-decoration: none;
+    color: #00c8c8;
+}
+
+#author {
+    font-size: large;
+    font-style: italic;
+    display: block;
+    font-weight: lighter;
+}
+
+h2{
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    background-color:  #00c8c8 ;
+    color: white;
+}
+
+nav a{
+    color: #00c8c8;
+    font-size: larger;
+}
+
+h3{
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    background-color:  #00c8c8 ;
+    color: white;
+}
+
+fieldset {
+    color: #969696 ;
+    font-size: large;
+    border: 3px solid #00c8c8;
+}
+
+fieldset > legend{
+    align-content: center;
+    font-size: larger;
+    font-weight: bold;
+    color: #00c8c8;
+}
+
+fieldset a{
+    color: #00c8c8;
+    font-style: italic;
+}

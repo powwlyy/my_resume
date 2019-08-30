@@ -1,0 +1,78 @@
+*{
+    font-family: Calibri;
+}
+
+header{
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    background-color:  #00c8c8 ;
+    color: white;
+}
+
+header a{
+    color: white;
+}
+
+main{
+    line-height: 30px;
+    color: #969696;
+    font-size: larger;
+    margin: 50px 0px;
+}
+
+main>.table{
+    align-content: center;
+    text-align: center;
+}
+table thead{
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    background-color:  #00c8c8 ;
+    color: white;
+}
+
+table td{
+    text-align: center;
+}
+
+main ul span{
+    font-style: italic;
+}
+
+main #mainobjective{
+    text-align: center;
+}
+
+main div{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    margin: 10px 0px;
+    padding: 10px;
+    background-color:  #00c8c8 ;
+    color: white;
+}
+
+fieldset {
+    color: #969696;
+    font-size: large;
+    border: 3px solid #00c8c8;
+}
+
+
+
+fieldset > legend{
+    align-content: center;
+    font-size: larger;
+    font-weight: bold;
+    color: #00c8c8;
+}
+
+fieldset a{
+    color: #00c8c8;
+    font-style: italic;
+}
